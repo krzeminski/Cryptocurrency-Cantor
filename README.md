@@ -1,5 +1,5 @@
 # Cryptocurrency-Cantor
-A simple page which can calculate the current value of given amount of cryptocurrency to selected currency.
+A simple page which can calculate the current value of given amount of cryptocurrency to the selected currency.
 
 Stack: JavaScript, Node.js, ExpressJS
 
